@@ -1,0 +1,24 @@
+{
+  "name": "facebook-messenger-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebhendi/facebook-messenger-bot.git"
+  },
+  "author": "codebhendi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codebhendi/facebook-messenger-bot/issues"
+  },
+  "homepage": "https://github.com/codebhendi/facebook-messenger-bot#readme",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "expres": "0.0.5",
+    "request": "^2.79.0"
+  }
+}
